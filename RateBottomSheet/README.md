@@ -104,7 +104,7 @@ implementation 'org.jetbrains.kotlin:kotlin-stdlib:1.3.71'
 ```
 
 ## **Sample**
-[My Implementation Code](./app/src/main/java/com/timac/ratebottomsheet/MainActivity)
+[My Implementation Code](./app/src/main/java/com/timac/ratebottomsheet/MainActivity.kt)
 
 **Screenshots**  
 ![Do you like the app page](./screenshots/you_like.png)
