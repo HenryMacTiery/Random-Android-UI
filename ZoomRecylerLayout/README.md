@@ -59,4 +59,4 @@ linearLayoutManager.orientation = LinearLayoutManager.VERTICAL
 
 ## Screenshots
 
-![Gif](https://media.giphy.com/media/YNlxRFRSiLUuQIdFDU/giphy.gif)
+![GifImage](https://media.giphy.com/media/YNlxRFRSiLUuQIdFDU/giphy.gif)
