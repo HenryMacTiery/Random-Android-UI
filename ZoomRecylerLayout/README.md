@@ -58,5 +58,4 @@ linearLayoutManager.orientation = LinearLayoutManager.VERTICAL
 - [RecyclerView Item](./app/src/main/res/layout/rv_item.xml)
 
 ## Screenshots
-
-![Gif](https://media.giphy.com/media/YNlxRFRSiLUuQIdFDU/giphy.gif)
+![Image](https://gph.is/g/4bxbwBj)
